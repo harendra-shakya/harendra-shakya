@@ -6,7 +6,7 @@
       - [Mapty](https://cheery-alpaca-61b679.netlify.app/)
       - [Bankist App](https://github.com/harendra-shakya/Bankist-App)
       - [Bankist Website](https://sage-gnome-d61840.netlify.app/)
-- Check my progress - [Twitter](https://twitter.com/harendrashakya_) 
+- Check out my progress - [Twitter](https://twitter.com/harendrashakya_) 
 
 <!---
 harendra-shakya/harendra-shakya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
