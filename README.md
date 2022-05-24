@@ -4,7 +4,7 @@
 - Learning asynchronous js currently, will finish my js course soon and start learning solidity after my exams(28 May) :)
 - Some of my projects -
       - [Mapty](https://cheery-alpaca-61b679.netlify.app/)
-      - [Bankist App](https://singular-malasada-697abd.netlify.app/)
+      - [Bankist App](https://github.com/harendra-shakya/Bankist-App)
       - [Bankist Website](https://sage-gnome-d61840.netlify.app/)
 
 <!---
