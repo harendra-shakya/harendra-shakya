@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @harendra-shakya
 - 👀 I’m interested in blockchain development and web3.
-- 🌱 I’m currently learning Js
-- Learning asynchronous js currently, will finish my js course soon and start learning solidity after my exams (28 May) :)
+- 🌱 I’m currently learning solidity.
 - Some of my projects -
       - [Mapty](https://cheery-alpaca-61b679.netlify.app/)
       - [Bankist App](https://github.com/harendra-shakya/Bankist-App)
