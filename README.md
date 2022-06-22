@@ -2,9 +2,11 @@
 - 👀 I’m interested in blockchain development and web3.
 - 🌱 I’m currently learning solidity.
 - Some of my projects -
-      - [Mapty](https://cheery-alpaca-61b679.netlify.app/)
-      - [Bankist App](https://github.com/harendra-shakya/Bankist-App)
-      - [Bankist Website](https://sage-gnome-d61840.netlify.app/)
+- [Nft Marketplace](https://github.com/harendra-shakya/nft-marketplace)     
+- [Decentralized lottery](https://github.com/harendra-shakya/Lottery-Smart-Contracts)
+- [Mapty](https://cheery-alpaca-61b679.netlify.app/)
+- [Bankist App](https://github.com/harendra-shakya/Bankist-App)
+- [Bankist Website](https://sage-gnome-d61840.netlify.app/)
 - Check out my progress - [Twitter](https://twitter.com/harendrashakya_) 
 
 <!---
