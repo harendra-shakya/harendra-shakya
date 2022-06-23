@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning solidity.
 - Some of my projects -
 
-  - [Nft Marketplace](https://github.com/harendra-shakya/nft-marketplace) - A decentralized NFT marketplace for buying & selling NFTs. Made one with graph indexer and moralis indexer
+  - [Nft Marketplace](https://github.com/harendra-shakya/nft-marketplace) - A decentralized NFT marketplace for buying & selling NFTs. Made one with graph indexer and another with moralis indexer
   - [Decentralized lottery](https://github.com/harendra-shakya/Lottery-Smart-Contracts) - A decentralised lottery made with solidity & js
   - [Mapty](https://github.com/harendra-shakya/Mapty) - A geolocation based app in which we can track our workouts
   - [Bankist App](https://github.com/harendra-shakya/Bankist-App) - A simple demo banking app
