@@ -8,7 +8,7 @@
   - [**Anonim**](https://github.com/harendra-shakya/anonim) - A fullstack decentralized lending and borrowing protocol like **Aave**.
   - [**Nft Marketplace**](https://github.com/harendra-shakya/nft-marketplace) - A full stack decentralized **NFT marketplace** for buying & selling NFTs. Made one with graph indexer and another with moralis indexer
   - [**Domain Name Service**](https://github.com/harendra-shakya/Polygon-Name-Service) - A demo project for domain name service.
-  - [**Decentralized lottery**](https://github.com/harendra-shakya/decentralized-lottery) - A full stack decentralized lottery made with chainlink vrf & chainlink keepers.
+  - [**Decentralized lottery**](https://github.com/harendra-shakya/decentralized-lottery) - A decentralized lottery made with chainlink vrf & chainlink keepers.
   - [**Mapty**](https://github.com/harendra-shakya/Mapty) - A geolocation based app in which we can track our workouts
   - [**Bankist App**](https://github.com/harendra-shakya/Bankist-App) - A simple demo banking app
   - [**Bankist Website**](https://sage-gnome-d61840.netlify.app/) - A website made with html, css & js
