@@ -5,7 +5,7 @@
 - Full stack Bockchain developer.
 - Learning 🌱
 - Some of my projects -
-
+  - [**Anonim**](https://github.com/harendra-shakya/anonim) - A fullstack decentralized lending and borrowing protocol like Aave.
   - [**Nft Marketplace**](https://github.com/harendra-shakya/nft-marketplace) - A decentralized NFT marketplace for buying & selling NFTs. Made one with graph indexer and another with moralis indexer
   - [**Domain Name Service**](https://github.com/harendra-shakya/Polygon-Name-Service) - A demo project for domain name service.
   - [**Decentralized lottery**](https://github.com/harendra-shakya/Lottery-Smart-Contracts) - A decentralised lottery made with solidity & js
