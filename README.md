@@ -11,7 +11,6 @@
   - [**Decentralized lottery**](https://github.com/harendra-shakya/decentralized-lottery) - A decentralized lottery made with chainlink vrf & chainlink keepers.
   - [**Mapty**](https://github.com/harendra-shakya/Mapty) - A geolocation based app in which we can track our workouts
   - [**Bankist App**](https://github.com/harendra-shakya/Bankist-App) - A simple demo banking app
-  - [**Bankist Website**](https://sage-gnome-d61840.netlify.app/) - A website made with html, css & js
 - I code daily and share my progress on [Twitter](https://twitter.com/harendrashakya_) 
 
 <!---
