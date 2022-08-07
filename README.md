@@ -2,10 +2,9 @@
     Hii, I'm Harendra<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
 </h1>
 
-- Studying in class 12
+- 18 year old following passion.
 - I'm addicted to learn everyday.
 - Full stack Bockchain developer.
-- Learning 🌱
 - I code daily and share my progress on [Twitter](https://twitter.com/harendrashakya_)
 
 <h1 >My Stack!</h1>
@@ -30,10 +29,14 @@
     <a href="https://github.com/harendra-shakya/Polygon-Name-Service"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=Polygon-Name-Service&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>   
         <a href="https://github.com/harendra-shakya/decentralized-lottery"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=decentralized-lottery&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>       
 
-<p align="right">
-        <a href="https://www.linkedin.com/in/harendra-shakya-622649229"><img alt="TF" src="https://img.shields.io/badge/LinkedIn-26A5E4?style=for-the-badge&logo=LinkedIn&logoColor=white"/><a> 
-  <a href="https://twitter.com/harendrashakya_"><img alt="TF" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/><a>
-</p>
+##
+
+<a href="https://twitter.com/harendrashakya_">
+  <img align="right" alt="Harendra Shakya | Twitter "src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+</a>
+<a href="https://www.linkedin.com/in/harendra-shakya">
+  <img align="right" alt="Harendra Shakya | LinkedIn "src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+</a>
 
 <!---
 harendra-shakya/harendra-shakya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
