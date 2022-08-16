@@ -19,7 +19,7 @@
 
 <h4><strong>LANGUAGES</strong></h4>
 
-<img alt="TF" src="https://img.shields.io/badge/JS-grey?style=for-the-badge&logo=javascript&logoColor=Green"/> <img alt="TF" src="https://img.shields.io/badge/solidity-grey?style=for-the-badge&logo=solidity&logoColor=Green"/>
+<img alt="TF" src="https://img.shields.io/badge/TS-grey?style=for-the-badge&logo=typescript&logoColor=Green"/> <img alt="TF" src="https://img.shields.io/badge/solidity-grey?style=for-the-badge&logo=solidity&logoColor=Green"/>
 
 <h1>Some of my Projects!</h1>
 
