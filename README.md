@@ -5,6 +5,7 @@
 - 18 year old following passion.
 - I'm addicted to learn everyday.
 - Full stack Bockchain developer.
+- I like building projects which solve real-life problems e.g. I've built a dex, lending protocol, under-collateralized lending protocol, etc.
 - I code daily and share my progress on [Twitter](https://twitter.com/harendrashakya_)
 
 <h1 >My Stack!</h1>
