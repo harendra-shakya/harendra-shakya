@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hii, I'm Harendra<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
+    Hii, I'm <a href="https://linktr.ee/harendra_shakya">Harendra<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
 </h1>
 
 - 18 year old following passion.
