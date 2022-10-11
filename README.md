@@ -11,7 +11,7 @@
 
 <h4><strong>WEB 3</strong></h4>
 
-<img alt="TF" src="https://img.shields.io/badge/HARDHAT-grey?style=for-the-badge&logo=hardhat&logoColor=Green"/> <img alt="TF" src="https://img.shields.io/badge/ETHERS-grey?style=for-the-badge&logo=ethers&logoColor=Green"/> <img alt="TF" src="https://img.shields.io/badge/Moralis-grey?style=for-the-badge&logo=moralis&logoColor=Green"/> <img alt="TF" src="https://img.shields.io/badge/The Graph-grey?style=for-the-badge&logo=graph&logoColor=Green"/> <img alt="TF" src="https://img.shields.io/badge/Slither-grey?style=for-the-badge&logo=slither&logoColor=Green"/>
+<img alt="TF" src="https://img.shields.io/badge/HARDHAT-grey?style=for-the-badge&logo=hardhat&logoColor=Green"/> <img alt="TF" src="https://img.shields.io/badge/ETHERS-grey?style=for-the-badge&logo=ethers&logoColor=Green"/> <img alt="TF" src="https://img.shields.io/badge/Moralis-grey?style=for-the-badge&logo=moralis&logoColor=Green"/> <img alt="TF" src="https://img.shields.io/badge/The Graph-grey?style=for-the-badge&logo=graph&logoColor=Green"/>
 
 <h4><strong>WEB DEVELOPMENT</strong></h4>
 
