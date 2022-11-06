@@ -27,10 +27,8 @@
 <a href="https://github.com/harendra-shakya/uniswap-unwrapped"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=uniswap-unwrapped&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
  <a href="https://github.com/harendra-shakya/gas-optimization"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=gas-optimization&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
  <a href="https://github.com/harendra-shakya/smart-contracts-security"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=smart-contracts-security&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
+    
 <h1>Some of my Projects!</h1>
-
-<p align="left">
-
 <a href="https://github.com/harendra-shakya/p2p"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=p2p&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
 <a href="https://github.com/harendra-shakya/easy-pe"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=easy-pe&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
 <a href="https://github.com/harendra-shakya/dex"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=dex&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
@@ -41,6 +39,9 @@
 
 ##
 
+<a href="https://discord.gg/ZprHP39DdP">
+  <img align="right" alt="Harendra Shakya | Twitter "src="https://img.icons8.com/fluent/48/000000/discord.png"/>
+</a>
 <a href="https://twitter.com/harendrashakya_">
   <img align="right" alt="Harendra Shakya | Twitter "src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
