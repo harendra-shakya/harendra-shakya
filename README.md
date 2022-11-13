@@ -37,6 +37,7 @@
 <a href="https://github.com/harendra-shakya/anonim"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=anonim&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
 <a href="https://github.com/harendra-shakya/nft-marketplace"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=nft-marketplace&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
 <a href="https://github.com/harendra-shakya/Polygon-Name-Service"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=Polygon-Name-Service&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>   
+    <a href="https://github.com/harendra-shakya/decentralized-lottery"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=decentralized-lottery&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>  
 
 ##
 
