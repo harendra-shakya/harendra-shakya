@@ -6,7 +6,7 @@
 - I'm addicted to learn everyday.
 - Full stack Bockchain developer.
 - Helping community :)
-- I like building projects which solve real-life problems e.g. I've built a under-collateralized lending protocol, Data dao for medical research, P2P trading platform etc.
+- I like building projects which solve real-life problems e.g. I've built an under-collateralized lending protocol, Data dao for medical research, a P2P trading platform etc.
 - [Check Portfolio](https://portfolio-website-harendra-shakya.vercel.app/)
 
 <h1 >My Stack!</h1>
