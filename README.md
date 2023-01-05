@@ -2,12 +2,10 @@
     Hii, I'm <a href="https://linktr.ee/harendra_shakya">Harendra<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
 </h1>
 
-- 18 year old following passion.
 - I'm addicted to learn everyday.
-- Full stack Bockchain developer.
+- 18 y/o Full-stack Bockchain developer.
 - Helping community :)
-- I like building projects which solve real-life problems e.g. I've built an under-collateralized lending protocol, Data dao for medical research, a P2P trading platform etc.
-- [Check Portfolio](https://portfolio-website-harendra-shakya.vercel.app/)
+- I like building projects which solve real-life problems e.g. I've built an under-collateralized lending protocol, Data dao for medical research, a P2P trading platform etc. [Check Portfolio](https://portfolio-website-harendra-shakya.vercel.app/)
 
 <h1 >My Stack!</h1>
 
@@ -26,9 +24,9 @@
     
     
 <h1>Some of my open source repos!</h1>
+<a href="https://github.com/harendra-shakya/smart-contract-attack-vectors"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=smart-contract-attack-vectors&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
 <a href="https://github.com/harendra-shakya/uniswap-unwrapped"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=uniswap-unwrapped&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
  <a href="https://github.com/harendra-shakya/gas-optimization"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=gas-optimization&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
- <a href="https://github.com/harendra-shakya/smart-contract-attack-vectors"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=smart-contract-attack-vectors&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
     
 <h1>Some of my Projects!</h1>
 <a href="https://github.com/harendra-shakya/safock"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=safock&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
