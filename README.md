@@ -6,8 +6,13 @@
 - 18 y/o Full-stack Bockchain developer.
 - Helping community :)
 - I like building projects which solve real-life problems e.g. I've built an under-collateralized lending protocol, Data dao for medical research, a P2P trading platform etc. [Check Portfolio](https://portfolio-website-harendra-shakya.vercel.app/)
-   
-<h1 >My Stack!</h1>
+    
+<a href="https://www.twitter.com/harendrashakya_" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/harendrashakya_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>  <a href="https://www.github.com/harendra-shakya" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/harendra-shakya?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+## My Stack
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -35,13 +40,18 @@
 <a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://docs.ipfs.tech/images/ipfs-logo.svg" width="36" height="36" alt="IPFS" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
+    
+## Socials
 
-<h1>Some of my open source repos!</h1>
+<p align="left"> <a href="https://discord.gg/ZprHP39DdP" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/harendra-shakya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/harendra-shakya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/harendrashakya_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+## Some of my open source repos
 <a href="https://github.com/harendra-shakya/smart-contract-attack-vectors"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=smart-contract-attack-vectors&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
 <a href="https://github.com/harendra-shakya/uniswap-unwrapped"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=uniswap-unwrapped&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
  <a href="https://github.com/harendra-shakya/gas-optimization"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=gas-optimization&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
     
-<h1>Some of my Projects!</h1>
+    
+## Some of my Projects
 <a href="https://github.com/harendra-shakya/safock"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=safock&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
 <a href="https://github.com/harendra-shakya/p2p"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=p2p&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
 <a href="https://github.com/Shubham0850/cancer-data-dao"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Shubham0850&repo=cancer-data-dao&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
@@ -52,19 +62,8 @@
 <a href="https://github.com/harendra-shakya/nft-marketplace"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=nft-marketplace&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
 <a href="https://github.com/harendra-shakya/Polygon-Name-Service"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=Polygon-Name-Service&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>   
 <a href="https://github.com/harendra-shakya/decentralized-lottery"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=decentralized-lottery&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>  
-
-##
-
-<a href="https://discord.gg/ZprHP39DdP">
-  <img align="right" alt="Harendra Shakya | Twitter "src="https://img.icons8.com/fluent/48/000000/discord.png"/>
-</a>
-<a href="https://twitter.com/harendrashakya_">
-  <img align="right" alt="Harendra Shakya | Twitter "src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
-</a>
-<a href="https://www.linkedin.com/in/harendra-shakya">
-  <img align="right" alt="Harendra Shakya | LinkedIn "src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-</a>
-
+    
+    
 <!---
 harendra-shakya/harendra-shakya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
