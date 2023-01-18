@@ -4,9 +4,9 @@
 
 - I'm addicted to learn everyday.
 - 18 y/o Full-stack Bockchain developer.
-- Helping community :)
+- Dedicated to assisting and improving the community.
 - I like building projects which solve real-life problems e.g. I've built an under-collateralized lending protocol, Data dao for medical research, a P2P trading platform etc. [Check Portfolio](https://portfolio-website-harendra-shakya.vercel.app/)
-- Currentl building an cool multichain wallet.
+- Currently building an cool multichain wallet.
     
 <a href="https://www.twitter.com/harendrashakya_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/harendrashakya_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
