@@ -52,6 +52,7 @@ src="https://img.shields.io/github/followers/harendra-shakya?logo=github&style=f
     
     
 ## Some of my Projects
+<a href="https://github.com/harendra-shakya/amazon-clone"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=amazon-clone&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
 <a href="https://github.com/harendra-shakya/safock"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=safock&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
 <a href="https://github.com/harendra-shakya/p2p"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=p2p&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
 <a href="https://github.com/Shubham0850/cancer-data-dao"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Shubham0850&repo=cancer-data-dao&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
