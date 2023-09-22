@@ -49,6 +49,10 @@ src="https://img.shields.io/github/followers/harendra-shakya?logo=github&style=f
 <a href="https://github.com/harendra-shakya/smart-contract-attack-vectors"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=smart-contract-attack-vectors&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
 <a href="https://github.com/harendra-shakya/uniswap-unwrapped"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=uniswap-unwrapped&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
  <a href="https://github.com/harendra-shakya/gas-optimization"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=gas-optimization&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
+
+## 24 Hours Challenge
+<a href="https://github.com/harendra-shakya/tinder-clone"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=tinder-clone&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
+<a href="https://github.com/harendra-shakya/amazon-clone"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=amazon-clone&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
     
     
 ## Some of my Projects
