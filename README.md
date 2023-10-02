@@ -5,7 +5,7 @@
 - I'm addicted to learn everyday.
 - 19 y/o Full-stack Bockchain developer.
 - Dedicated to assisting and improving the community.
-- I like building projects which solve real-life problems e.g. I've built an under-collateralized lending protocol, Data dao for medical research, a P2P trading platform etc. [Check Portfolio](https://portfolio-website-harendra-shakya.vercel.app/)
+- I like to create projects that can create impact more than money.
     
 <a href="https://www.twitter.com/harendrashakya_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/harendrashakya_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
