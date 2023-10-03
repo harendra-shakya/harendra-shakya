@@ -28,11 +28,17 @@ src="https://img.shields.io/github/followers/harendra-shakya?logo=github&style=f
   - **Programming:** `JavaScript` • `TypeScript`
   - **Databases:** `Firebase`
 
-- 🖥 **Frontend :**
+- 🖥 **Web :**
 
   - **Programming:** `HTML` • `CSS` • `JavaScript` • `TypeScript`
-  - **Framework/Library:** `React.js` • `Next.js`
+  - **Framework:** `React.js` • `Next.js`
   - **UI Toolkit:** `Ant Design` • `MUI`
+  - **Utils:** `Tailwind`
+
+- 🖥 **Mobile :**
+
+  - **Programming:** `JavaScript` • `TypeScript`
+  - **Framework:** `React Native` • `Expo`
   - **Utils:** `Tailwind`
 
     
