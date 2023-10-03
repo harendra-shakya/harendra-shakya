@@ -36,7 +36,6 @@ src="https://img.shields.io/github/followers/harendra-shakya?logo=github&style=f
   - **Programming:** `HTML` • `CSS` • `JavaScript` • `TypeScript`
   - **Framework:** `React.js` • `Next.js`
   - **UI:** `Tailwind` • `Daisyui`
-  - **Others:** `Redux` • `Webhooks` • `Stripe checkout` • `NextAuth` 
   - **Projects:** **[Amazon Clone](https://github.com/harendra-shakya/amazon-clone)** • **[Mapty](https://github.com/harendra-shakya/Mapty)** • **[Bankist Website](https://github.com/harendra-shakya/Bankist-Website)** • **[Bankist App](https://github.com/harendra-shakya/Bankist-App)**
 
 - 🖥 **Mobile :**
