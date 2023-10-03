@@ -12,6 +12,9 @@ src="https://img.shields.io/twitter/follow/harendrashakya_?logo=x&style=for-the-
 /></a>  <a href="https://www.github.com/harendra-shakya" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/harendra-shakya?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+
+
+
 ## My Stack
 
 - 🎡 **Blockchain:**
@@ -22,7 +25,7 @@ src="https://img.shields.io/github/followers/harendra-shakya?logo=github&style=f
   - **SDK Library:** `Wagmi` • `Rainbow Kit` • `Moralis` • `Thirdweb`
   - **Data:** `Chainlink` • `The Graph`
   - **File Storage:** `IPFS` • `Filecoin`
-
+  - **Projects:** **[Safock](https://github.com/harendra-shakya/safock)** •  **[CoffeTown/Chainsub](https://github.com/harendra-shakya/chainsub)** • **[Fellowswap](https://github.com/harendra-shakya/p2p)** • **[Cancer Data DAO](https://github.com/Shubham0850/cancer-data-dao)** • **[Easy Pe](https://github.com/harendra-shakya/easy-pe)** • **[Dex](https://github.com/harendra-shakya/dex)** • **[Stark Protocol](https://github.com/megabyte0x/stark-protocol)** • **[Anonim](https://github.com/harendra-shakya/anonim)** • **[NFT Marketplace](https://github.com/harendra-shakya/nft-marketplace)** • **[Polygon Name Service](https://github.com/harendra-shakya/Polygon-Name-Service)** • **[Decentralized Lottery](https://github.com/harendra-shakya/decentralized-lottery)**
 - 🗄️ **Backend:**
 
   - **Programming:** `JavaScript` • `TypeScript`
@@ -32,21 +35,23 @@ src="https://img.shields.io/github/followers/harendra-shakya?logo=github&style=f
 
   - **Programming:** `HTML` • `CSS` • `JavaScript` • `TypeScript`
   - **Framework:** `React.js` • `Next.js`
-  - **UI Toolkit:** `Ant Design` • `MUI`
-  - **Utils:** `Tailwind`
+  - **UI:** `Tailwind` • `Daisyui`
+  - **Others:** `Redux` • `Webhooks` • `Stripe checkout` • `NextAuth` 
+  - **Projects:** **[Amazon Clone](https://github.com/harendra-shakya/amazon-clone)** • **[Mapty](https://github.com/harendra-shakya/Mapty)** • **[Bankist Website](https://github.com/harendra-shakya/Bankist-Website)** • **[Bankist App](https://github.com/harendra-shakya/Bankist-App)**
 
 - 🖥 **Mobile :**
 
   - **Programming:** `JavaScript` • `TypeScript`
   - **Framework:** `React Native` • `Expo`
   - **Utils:** `Tailwind`
+  - **Projects:** **[Tinder Clone](https://github.com/harendra-shakya/tinder-clone)**
 
     
 ## Socials
 
 <p align="left"> <a href="https://discord.gg/ZprHP39DdP" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/harendra-shakya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/harendra-shakya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/harendrashakya_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-## Some of my open source repos
+## Some of my open-source repos
 <a href="https://github.com/harendra-shakya/smart-contract-attack-vectors"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=smart-contract-attack-vectors&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
 <a href="https://github.com/harendra-shakya/uniswap-unwrapped"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=uniswap-unwrapped&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
  <a href="https://github.com/harendra-shakya/gas-optimization"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=gas-optimization&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
