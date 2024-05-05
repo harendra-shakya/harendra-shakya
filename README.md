@@ -29,11 +29,12 @@ src="https://img.shields.io/github/followers/harendra-shakya?logo=github&style=f
 </details>
 
 <details>
-<summary><b>🖥 Web:</b></summary>
+<summary><b>🖥️ Web:</b></summary>
     
   - **Programming:** `HTML` • `CSS` • `JavaScript` • `TypeScript`
   - **Framework:** `React.js` • `Next.js`
   - **UI:** `Tailwind` • `Daisyui`
+  - **Data:** `Graphql` • `Axios`
   - **Projects:** **[Amazon Clone](https://github.com/harendra-shakya/amazon-clone)** • **[Mapty](https://github.com/harendra-shakya/Mapty)** • **[Bankist Website](https://github.com/harendra-shakya/Bankist-Website)** • **[Bankist App](https://github.com/harendra-shakya/Bankist-App)**
     
 </details>
@@ -47,7 +48,7 @@ src="https://img.shields.io/github/followers/harendra-shakya?logo=github&style=f
 </details>
 
 <details>
-<summary><b>🖥 Mobile:</b></summary>
+<summary><b>📱 Mobile:</b></summary>
     
   - **Programming:** `JavaScript` • `TypeScript`
   - **Framework:** `React Native` • `Expo`
