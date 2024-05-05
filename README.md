@@ -4,7 +4,7 @@
 
 - I'm addicted to learn everyday.
 - 20 y/o Full-stack Blockchain developer.
-- Dedicated to assisting and improving the community. Feel free to contribute to the repos I created  **[Smart Contract Attack Vectors](https://github.com/harendra-shakya/smart-contract-attack-vectors)** • **[Gas Optimization](https://github.com/harendra-shakya/gas-optimization)** •  **[Uniswap Unwrapped](https://github.com/harendra-shakya/uniswap-unwrapped)**
+- Dedicated to assisting and improving the community. Feel free to contribute to **[Smart Contract Attack Vectors](https://github.com/harendra-shakya/smart-contract-attack-vectors)** • **[Gas Optimization](https://github.com/harendra-shakya/gas-optimization)** •  **[Uniswap Unwrapped](https://github.com/harendra-shakya/uniswap-unwrapped)**
 - I like to create projects that can create impact more than money.
     
 <a href="https://www.twitter.com/harendrashakya_" target="_blank" rel="noreferrer"><img
