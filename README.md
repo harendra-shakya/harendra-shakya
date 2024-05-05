@@ -111,17 +111,19 @@ src="https://img.shields.io/github/followers/harendra-shakya?logo=github&style=f
 
 
 <details>
-<summary><b>Some of my Projects</b></summary                                        
-    
+<summary><b>Some of my Projects</b></summary          
+                                       
+<a href="https://github.com/harendra-shakya/blockchain-lottery"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=blockchain-lottery&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
+<a href="https://github.com/harendra-shakya/tinder-clone"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=tinder-clone&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
 <a href="https://github.com/harendra-shakya/amazon-clone"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=amazon-clone&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
 <a href="https://github.com/harendra-shakya/safock"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=safock&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-<a href="https://github.com/harendra-shakya/p2p"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=p2p&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-<a href="https://github.com/Shubham0850/cancer-data-dao"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Shubham0850&repo=cancer-data-dao&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-<a href="https://github.com/harendra-shakya/easy-pe"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=easy-pe&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
 <a href="https://github.com/harendra-shakya/dex"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=dex&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
 <a href="https://github.com/megabyte0x/stark-protocol"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=megabyte0x&repo=stark-protocol&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
 <a href="https://github.com/harendra-shakya/anonim"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=anonim&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
+<a href="https://github.com/harendra-shakya/p2p"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=p2p&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
+<a href="https://github.com/harendra-shakya/easy-pe"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=easy-pe&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
 <a href="https://github.com/harendra-shakya/nft-marketplace"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=nft-marketplace&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
+<a href="https://github.com/Shubham0850/cancer-data-dao"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Shubham0850&repo=cancer-data-dao&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
 <a href="https://github.com/harendra-shakya/Polygon-Name-Service"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=Polygon-Name-Service&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
 <a href="https://github.com/harendra-shakya/decentralized-lottery"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=decentralized-lottery&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
     
