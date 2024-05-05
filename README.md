@@ -24,7 +24,7 @@ src="https://img.shields.io/github/followers/harendra-shakya?logo=github&style=f
   - **SDK Library:** `Wagmi` • `Rainbow Kit` • `Moralis` • `Thirdweb`
   - **Data:** `Chainlink` • `The Graph`
   - **File Storage:** `IPFS` • `Filecoin`
-  - **Projects:** **[ChainWarz](https://github.com/harendra-shakya/blockchain-lottery)** • **[Safock](https://github.com/harendra-shakya/safock)** •  **[CoffeTown](https://github.com/harendra-shakya/chainsub)** • **[Fellowswap](https://github.com/harendra-shakya/p2p)** • **[Cancer Data DAO](https://github.com/Shubham0850/cancer-data-dao)** • **[Easy Pe](https://github.com/harendra-shakya/easy-pe)** • **[Dex](https://github.com/harendra-shakya/dex)** • **[Stark Protocol](https://github.com/megabyte0x/stark-protocol)** • **[Anonim](https://github.com/harendra-shakya/anonim)** • **[NFT Marketplace](https://github.com/harendra-shakya/nft-marketplace)** • **[Polygon Name Service](https://github.com/harendra-shakya/Polygon-Name-Service)** • **[Decentralized Lottery](https://github.com/harendra-shakya/decentralized-lottery)**
+  - **Projects:** **[ChainWarz](https://github.com/harendra-shakya/blockchain-lottery)** • **[Safock](https://github.com/harendra-shakya/safock)** • **[Dex](https://github.com/harendra-shakya/dex)** • **[Stark Protocol](https://github.com/megabyte0x/stark-protocol)** • **[Anonim](https://github.com/harendra-shakya/anonim)** • **[CoffeTown](https://github.com/harendra-shakya/chainsub)** • **[Fellowswap](https://github.com/harendra-shakya/p2p)** • **[EasyPe](https://github.com/harendra-shakya/easy-pe)**  • **[NFT Marketplace](https://github.com/harendra-shakya/nft-marketplace)** • **[Cancer Data DAO](https://github.com/Shubham0850/cancer-data-dao)** • **[Polygon Name Service](https://github.com/harendra-shakya/Polygon-Name-Service)** • **[Decentralized Lottery](https://github.com/harendra-shakya/decentralized-lottery)**
 
 </details>
 
@@ -33,7 +33,7 @@ src="https://img.shields.io/github/followers/harendra-shakya?logo=github&style=f
     
   - **Programming:** `HTML` • `CSS` • `JavaScript` • `TypeScript`
   - **Framework:** `React.js` • `Next.js`
-  - **UI:** `Tailwind` • `Daisyui`
+  - **UI:** `Tailwind` • `Daisyui` • `MUI`
   - **Data:** `Graphql` • `Axios`
   - **Projects:** **[Amazon Clone](https://github.com/harendra-shakya/amazon-clone)** • **[Mapty](https://github.com/harendra-shakya/Mapty)** • **[Bankist Website](https://github.com/harendra-shakya/Bankist-Website)** • **[Bankist App](https://github.com/harendra-shakya/Bankist-App)**
     
@@ -43,8 +43,10 @@ src="https://img.shields.io/github/followers/harendra-shakya?logo=github&style=f
 <summary><b>🗄️ Backend:</b></summary>
     
   - **Programming:** `JavaScript` • `TypeScript`
+  - **Framework:** `Next.js` • `Express.js`
   - **Databases:** `Firebase`
-    
+  - **Protocol:** `REST`
+
 </details>
 
 <details>
@@ -52,7 +54,7 @@ src="https://img.shields.io/github/followers/harendra-shakya?logo=github&style=f
     
   - **Programming:** `JavaScript` • `TypeScript`
   - **Framework:** `React Native` • `Expo`
-  - **Utils:** `Tailwind`
+  - **UI:** `Tailwind`
   - **Projects:** **[Tinder Clone](https://github.com/harendra-shakya/tinder-clone)**
     
 </details>
