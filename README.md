@@ -1,16 +1,3 @@
-<h1 align="center">
-    Hii, I'm <a href="https://linktr.ee/harendra_shakya">Harendra<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
-</h1>
-
-- I'm addicted to learn everyday.
-- 20 y/o Full-stack Blockchain developer.
-- Dedicated to assisting and improving the community. Feel free to contribute to **[Smart Contract Attack Vectors](https://github.com/harendra-shakya/smart-contract-attack-vectors)** • **[Gas Optimization](https://github.com/harendra-shakya/gas-optimization)** •  **[Uniswap Unwrapped](https://github.com/harendra-shakya/uniswap-unwrapped)**
-- I like to create projects that can create impact more than money.
-    
-<a href="https://www.twitter.com/harendrashakya_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/harendrashakya_?logo=x&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>  <a href="https://www.github.com/harendra-shakya" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/harendra-shakya?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ## My Stack
 
