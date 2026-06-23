@@ -5,7 +5,7 @@ Obsess over the interface, lose the infrastructure.
 I build across the entire stack so nothing gets lost." 
 
 Agentic Engineering Projects
-- [Peaklist](https://github.com/harendra-shakya/peaklist)
+- [Peaklist](https://peaklist.vercel.app/)
 
 Philosophizing
 - [Shakya Mirror](https://harendra-shakya.github.io/)
