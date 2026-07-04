@@ -1,14 +1,6 @@
 <img src="https://i.postimg.cc/1XDjvXPS/vagabond.png" alt="Profile Banner" width="70%" />
 
-"Obsess over the pixel, lose the interface.    
-Obsess over the interface, lose the infrastructure.   
-I build across the entire stack so nothing gets lost." 
+*Everyone speaks of love, yet no one truly understands it;  
+The path upon which the Truth is found—that alone is what is called love.*
 
-Agentic Engineering Projects
-- [Peaklist](https://peaklist.vercel.app/)
-
-Philosophizing
-- [Shakya Mirror](https://harendra-shakya.github.io/)
-
-Art
-- ?
+[Peaklist](https://peaklist.vercel.app/) · [Shakya Mirror](https://harendra-shakya.github.io/)
