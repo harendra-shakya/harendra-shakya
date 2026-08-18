@@ -3,7 +3,7 @@
 Blockchain engineer with a foundation in EVM security: smart contract auditing, gas optimization, and DeFi protocol development. My current work focuses on agentic AI systems — agent runtimes, MCP tooling, and harnesses that improve the reliability and performance of coding agents.
 
 I also write on Advaita Vedanta - https://harendra-shakya.github.io/avalokan/
- 
+
 ## My Stack
 
 <details>
@@ -14,6 +14,16 @@ I also write on Advaita Vedanta - https://harendra-shakya.github.io/avalokan/
   - **Models:** `Claude` • `GPT` • `Gemini` — local: `Ollama` • `llama.cpp`
   - **Frameworks & Tooling:** `LangChain` • `Hugging Face` • `PyTorch`
   - **Agent Harnesses:** `Claude Code` • `Codex` • `Opencode` • `Cursor`
+
+</details>
+
+<details>
+<summary><b>🎨 UI/UX:</b></summary>
+
+  - **Focus:** Interfaces that feel effortless — product design end to end
+  - **Design:** `Figma`. `Claude Design`
+  - **Frontend:** `React` • `Next.js` • `Tailwind`
+  - **Projects (live):** **[Peaklist](https://peaklist.vercel.app)** • **[OneReel](https://weave-v5-apps.vercel.app)** • **[Vitrine](https://weave-v5-apps-nvv8.vercel.app)** • **[Tableau](https://weave-v5-apps-t44q.vercel.app)** • **[Marginalia](https://weave-v5-apps-tubj.vercel.app)** • **[EasyPe](https://easy-pe.vercel.app)**
 
 </details>
 
