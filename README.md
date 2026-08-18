@@ -23,7 +23,7 @@ I also write on Advaita Vedanta - https://harendra-shakya.github.io/avalokan/
   - **Focus:** Interfaces that feel effortless — product design end to end
   - **Design:** `Figma`. `Claude Design`
   - **Frontend:** `React` • `Next.js` • `Tailwind`
-  - **Projects (live):** **[Peaklist](https://peaklist.vercel.app)** • **[OneReel](https://weave-v5-apps.vercel.app)** • **[Vitrine](https://weave-v5-apps-nvv8.vercel.app)** • **[Tableau](https://weave-v5-apps-t44q.vercel.app)** • **[Marginalia](https://weave-v5-apps-tubj.vercel.app)** • **[EasyPe](https://easy-pe.vercel.app)**
+  - **Projects (live):** **[Peaklist](https://peaklist.vercel.app)** • **[OneReel](https://weave-v5-apps.vercel.app)** • **[Vitrine](https://weave-v5-apps-nvv8.vercel.app)** • **[Tableau](https://weave-v5-apps-t44q.vercel.app)** • **[Marginalia](https://weave-v5-apps-tubj.vercel.app)** 
 
 </details>
 
