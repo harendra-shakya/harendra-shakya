@@ -72,61 +72,9 @@ I also write on Advaita Vedanta - https://harendra-shakya.github.io/avalokan/
 
 </details>
 
-## AI & Agents
-
-<p align="left">
-<a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/claude" width="36" height="36" alt="Claude" /></a>
-<a href="https://ai.google.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/googlegemini" width="36" height="36" alt="Gemini" /></a>
-<a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/modelcontextprotocol" width="36" height="36" alt="Model Context Protocol" /></a>
-<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/langchain" width="36" height="36" alt="LangChain" /></a>
-<a href="https://ollama.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/ollama" width="36" height="36" alt="Ollama" /></a>
-<a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/huggingface" width="36" height="36" alt="Hugging Face" /></a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/pytorch" width="36" height="36" alt="PyTorch" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-</p>
-
-## Web3 & Web
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://docs.soliditylang.org/en/v0.8.13/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374088/solidity.svg" width="36" height="36" alt="Solidity" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
-<a href="https://github.com/foundry-rs/foundry/" target="_blank" rel="noreferrer"><img src="https://github.com/foundry-rs/foundry/blob/master/.github/logo.png" width="36" height="36" alt="Foundry" /></a>
-<a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a>
-<a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
-<a href="https://moralis.io/" target="_blank" rel="noreferrer"><img src="https://github.com/MoralisWeb3/Moralis-JS-SDK/blob/main/assets/moralis-logo.svg" width="36" height="36" alt="Moralis" /></a>
-<a href="https://github.com/trailofbits/eth-security-toolbox" target="_blank" rel="noreferrer"><img src="https://portfolio-website-harendra-shakya.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftoolbox.65e70c5a.png&w=64&q=75" width="36" height="36" alt="Trail of Bits Toolbox" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" width="36" height="36" alt="NextJs" /></a>
-<a href="https://thegraph.com/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/the-graph-colored.svg" width="36" height="36" alt="The Graph" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://chain.link/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="36" height="36" alt="Chainlink" /></a>
-<a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a>
-<a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://docs.ipfs.tech/images/ipfs-logo.svg" width="36" height="36" alt="IPFS" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /></a>
-<a href="https://mochajs.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40" /></a>
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40" /></a>
-</p>
-
 ## Socials
 
 <p align="left"> <a href="https://discord.gg/ZprHP39DdP" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/harendra-shakya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/harendra-shakya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/harendrashakya_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-## GitHub Stats
-
-<p align="center">
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=harendra-shakya&theme=react&show_icons=true&bg_color=00000000&hide_border=true" alt="GitHub stats" height="165" />
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=harendra-shakya&theme=react&show_icons=true&bg_color=00000000&hide_border=true&langs_count=8&layout=compact" alt="Top languages" height="165" />
-</p>
 
 ## Repos
 
