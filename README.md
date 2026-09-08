@@ -72,44 +72,6 @@ I also write on Advaita Vedanta - https://harendra-shakya.github.io/avalokan/
 
 </details>
 
-## Socials
-
-<p align="left"> <a href="https://discord.gg/ZprHP39DdP" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/harendra-shakya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/harendra-shakya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/harendrashakya_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-## Repos
-
-<details>
-<summary><b>Open-source Repos</b></summary>
-
-<a href="https://github.com/harendra-shakya/smart-contract-attack-vectors"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=smart-contract-attack-vectors&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-<a href="https://github.com/harendra-shakya/uniswap-unwrapped"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=uniswap-unwrapped&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-<a href="https://github.com/harendra-shakya/solidity-gas-optimization"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=solidity-gas-optimization&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-
-</details>
-
-<details>
-<summary><b>24 Hours Challenge</b></summary>
-
-<a href="https://github.com/harendra-shakya/tinder-clone"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=tinder-clone&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-<a href="https://github.com/harendra-shakya/amazon-clone"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=amazon-clone&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-
-</details>
-
-<details>
-<summary><b>Some of my Projects</b></summary>
-
-<a href="https://github.com/harendra-shakya/blockchain-lottery"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=blockchain-lottery&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-<a href="https://github.com/harendra-shakya/safock"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=safock&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-<a href="https://github.com/harendra-shakya/dex"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=dex&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-<a href="https://github.com/harendra-shakya/anonim"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=anonim&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-<a href="https://github.com/harendra-shakya/fellowswap"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=fellowswap&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-<a href="https://github.com/harendra-shakya/easy-pe"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=easy-pe&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-<a href="https://github.com/harendra-shakya/nft-marketplace"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=nft-marketplace&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-<a href="https://github.com/harendra-shakya/Polygon-Name-Service"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=Polygon-Name-Service&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-<a href="https://github.com/harendra-shakya/decentralized-lottery"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harendra-shakya&repo=decentralized-lottery&theme=react&show_icons=true&bg_color=00000000" alt="github-readme-stats"></a>
-
-</details>
-
 <!---
 harendra-shakya/harendra-shakya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
