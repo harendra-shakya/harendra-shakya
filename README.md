@@ -1,6 +1,6 @@
 <img src="https://i.postimg.cc/1XDjvXPS/vagabond.png" alt="Profile Banner" width="70%" />
 
-Blockchain engineer with a foundation in EVM security: smart contract auditing, gas optimization, and DeFi protocol development. My current work focuses on agentic AI systems — agent runtimes, MCP tooling, and harnesses that improve the reliability and performance of coding agents.
+Software engineer with a foundation in EVM security: smart contract auditing, gas optimization, and DeFi protocol development. My current work focuses on agentic AI systems — agent runtimes, MCP tooling, and harnesses that improve the reliability and performance of coding agents.
 
 I also write on Advaita Vedanta - https://harendra-shakya.github.io/avalokan/
 
