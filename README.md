@@ -2,7 +2,7 @@
 
 Software engineer with a foundation in EVM security: smart contract auditing, gas optimization, and DeFi protocol development. My current work focuses on agentic AI systems — agent runtimes, MCP tooling, and harnesses that improve the reliability and performance of coding agents.
 
-[Peaklist](https://www.youtube.com/watch?v=iXoQ2KLFycE) is currently out of cpu. Working on fixing it.
+[Peaklist](https://www.youtube.com/watch?v=iXoQ2KLFycE) is currently out of cpu. Working on fixing it. Feel free to message me on discord. 
 
 ## My Stack
 
