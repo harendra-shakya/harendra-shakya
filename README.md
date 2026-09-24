@@ -2,8 +2,6 @@
 
 Software engineer with a foundation in EVM security: smart contract auditing, gas optimization, and DeFi protocol development. My current work focuses on agentic AI systems — agent runtimes, MCP tooling, and harnesses that improve the reliability and performance of coding agents.
 
-[Peaklist](https://www.youtube.com/watch?v=iXoQ2KLFycE) is currently out of cpu. Working on fixing it. Feel free to message me on discord. 
-
 ## My Stack
 
 <details>
@@ -23,7 +21,8 @@ Software engineer with a foundation in EVM security: smart contract auditing, ga
   - **Focus:** Interfaces that feel effortless — product design end to end
   - **Design:** `Figma`. `Claude Design`
   - **Frontend:** `React` • `Next.js` • `Tailwind`
-  - **Projects (live):** **[Peaklist](https://peaklist.vercel.app)** • **[OneReel](https://weave-v5-apps.vercel.app)** • **[Vitrine](https://weave-v5-apps-nvv8.vercel.app)** • **[Tableau](https://weave-v5-apps-t44q.vercel.app)** • **[Marginalia](https://weave-v5-apps-tubj.vercel.app)** 
+  - **Projects (live):** **[Peaklist](https://peaklist.vercel.app)** • **[OneReel](https://weave-v5-apps.vercel.app)** • **[Vitrine](https://weave-v5-apps-nvv8.vercel.app)** • **[Tableau](https://weave-v5-apps-t44q.vercel.app)** • **[Marginalia](https://weave-v5-apps-tubj.vercel.app)**    
+[Peaklist](https://www.youtube.com/watch?v=iXoQ2KLFycE) is currently out of cpu. Working on fixing it. Feel free to message me on discord. 
 
 </details>
 
