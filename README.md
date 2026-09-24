@@ -2,8 +2,7 @@
 
 Software engineer with a foundation in EVM security: smart contract auditing, gas optimization, and DeFi protocol development. My current work focuses on agentic AI systems — agent runtimes, MCP tooling, and harnesses that improve the reliability and performance of coding agents.
 
-I also write on Advaita Vedanta - https://harendra-shakya.github.io/avalokan/
-
+Watch this demo for peaklist https://www.youtube.com/watch?v=iXoQ2KLFycE . Current working on fixing it as it's out of cpu.
 ## My Stack
 
 <details>
